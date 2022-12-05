@@ -1,7 +1,7 @@
 
-#Hello and Welcome#
+  Hello and Welcome!
 
-Developer in Progress
+  Developer in Progress ;)
 
 
 ![contributions](https://user-images.githubusercontent.com/114519705/205656122-c9cefcb8-3dc8-40de-a135-0a0d75c8c123.svg)

@@ -3,7 +3,8 @@
 
 Developer in Progress
 
-![image](https://user-images.githubusercontent.com/114519705/205655809-c7c2d10a-55a4-486f-9e05-491be437a1d7.png)
+
+![contributions](https://user-images.githubusercontent.com/114519705/205656122-c9cefcb8-3dc8-40de-a135-0a0d75c8c123.svg)
 
 
 <!---

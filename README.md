@@ -4,7 +4,7 @@ Developer in Progress ;)
 
   ![tumblr_ll439xVQdz1qel10ao1_500](https://user-images.githubusercontent.com/114519705/205657464-b2a9a75b-c8ea-413a-8e5f-0b2a949dcab0.gif)
 
-  [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Microwonk)](https://github.com/Microwonk/Microwonk)
+  [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Microwonk&theme=dracula)](https://github.com/Microwonk/Microwonk)
 
 My WebPage: https://microwonk.github.io/MicrowonkWeb/
 <!---

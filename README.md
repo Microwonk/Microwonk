@@ -2,7 +2,7 @@
 Hello and Welcome!
 Developer in Progress ;)
 
-Interests: Low Level Programming, Game Development and Design
+Interests: Low level and graphics programming, game development and design, retro games and modding
 
 ![tumblr_ll439xVQdz1qel10ao1_500](https://user-images.githubusercontent.com/114519705/205657464-b2a9a75b-c8ea-413a-8e5f-0b2a949dcab0.gif)
 

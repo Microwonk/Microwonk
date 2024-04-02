@@ -2,8 +2,12 @@
 Hello and Welcome!
 Developer in Progress ;)
 
-Currently in second year of college, studying computer science and software development.
+Currently in my last year of college for Computer-Science and Software Development.
 
-Interests: Low level and graphics programming, game development and design, retro games and modding
-
-[< My Portfolio Website >](https://microwonk.github.io/MicrowonkWeb/)
+languages and technologies:
+- Java
+- C#
+- PHP
+- C++
+- Rust & [Bevy](https://bevyengine.org)
+- Vulkan & OpenGL

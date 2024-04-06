@@ -9,6 +9,6 @@ languages and technologies:
 - C#
 - PHP
 - C++
-- Rust & [Bevy](https://bevyengine.org)
-- Vulkan & OpenGL
+- Rust & [Bevy](https://bevyengine.org) & WGPU
+- Vulkan
 - Docker & CI/CD

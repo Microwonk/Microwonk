@@ -7,4 +7,3 @@ languages and technologies:
 - C++
 - Rust & [Bevy](https://bevyengine.org) & WGPU
 - Vulkan
-- Docker & CI/CD

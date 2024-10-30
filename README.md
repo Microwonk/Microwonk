@@ -1,5 +1,5 @@
-Currently in my last year of college for Computer-Science and Software Development.
+Computer-Scienctist, Software and Game Developer.
 
 For finished games I've developed, go to [Itch](https://microwonk.itch.io/)
 
-Visit my website at [nicolas-frey.com](https://nicolas-frey.com)
+Visit my website at [www.nicolas-frey.com](https://www.nicolas-frey.com)
